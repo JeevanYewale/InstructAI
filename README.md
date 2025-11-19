@@ -442,6 +442,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Deployment Guide:** [`DEPLOYMENT_GUIDE.md`](server/DEPLOYMENT_GUIDE.md)
 - **Server README:** [`server/README.md`](server/README.md)
 
+## 📞 Contact & Support
+
+- **Email:** [jeevanyewale4@gmail.com](mailto:jeevanyewale4@gmail.com)
+- **GitHub Profile:** [https://github.com/JeevanYewale](https://github.com/JeevanYewale)
+- **Project Repository:**  
+  [https://github.com/JeevanYewale/InstructAI/tree/main](https://github.com/JeevanYewale/InstructAI/tree/main)
+- **Issues:**  
+  [Create an issue](https://github.com/JeevanYewale/InstructAI/issues)
 
 
 ### Health Monitoring
